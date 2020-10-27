@@ -30,6 +30,9 @@
             * too heigh -> create dent around sound-hole
     * bridge
         * saddle
+            * oblique
+                * Position of sixth string should be higher then the position of first string, since the diameter of sixth string is larger then rest of strings
+            * if height of 12th fret is 2mm, then the height of saddle should be higher then bridge to 4mm
         * seam between bridge and soundboard
 * neck
     * check if neck is properly joint at the body
@@ -74,6 +77,7 @@
     * use neck relief(曲度) gauge
         * proper relief: 0.0156” – 0.0312” (i check it online)
             * at guitar repairman: 2/1000"-3/1000"
+    * check and adjust the relief first then you can adjust action height.
 
 * (Measure Action Height)[https://www.guitaranswerguy.com/guitar-action-good-string-height/]
     * in plating guitar position
@@ -86,8 +90,21 @@
     * first string:
         * 1.5 - 3.4 mm
 
-* Play!!
-    *
+* action height
+    * measure twelfth fret
+    * capo on first fret
+    * proper height
+        * sixth string: 2 - 2.25 mm
+        * first string: 1.5 - 2 (sixth string - 0.5)
+
+* radian of saddle, bridge and fretboard should be same (but it depends on guitarist's playing style)
+    * tool: (fret slot depth gauge)[https://www.amazon.com/StewMac-Fret-Slot-Depth-Gauge/dp/B01N0FH0Q8/ref=as_li_ss_tl?ie=UTF8&qid=1548829253&sr=8-9&keywords=stewmac+fret+slot&linkCode=sl1&tag=guitarrepairb-20&linkId=40770ba75402e5f79e3ef7d7063f1694&language=en_US]
+
+## Part two
+*
+
+
+# Other
 
 ## Break Angle
 * too steep
@@ -101,15 +118,20 @@
 
 ## measurement
     * relief
+        * proper relief:
+            * 2/1000 - 5/1000 (unit: inch)
     * action height
+        * fret 12th
+        * sixth: 2.5 - 3.5 mm
+        * first: 2 - 3 mm
 
 ## Bridge
 * proper height of bridge === 8 - 10 millimeters
 
 
 ## Ref
-* A-03
-    * 1:12:36
+* A-04
+    * 00:24:32
 * https://www.sagemusic.co/inspecting-an-acoustic-guitar-is-your-guitar-in-good-playing-condition/
 * https://hazeguitars.com/blog/gibson-bridge-collapse
 * https://hazeguitars.com/blog/offset-fenders-curing-bridge-buzzes-and-rattles
